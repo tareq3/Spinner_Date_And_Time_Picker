@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+          package="com.mti.spinner_date_time_picker"
+>
+
+    <application 
+                 
+                 android:supportsRtl="true"
+    >
+
+    </application>
+
+</manifest>
