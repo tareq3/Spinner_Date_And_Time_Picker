@@ -20,7 +20,7 @@ dependencies {
 ```
 
 
-#How to Use:
+### How to Use:
 
 Edit Style for AlertDialog:
 ```
